@@ -1,0 +1,99 @@
+body{
+  margin:0;
+  padding:0;
+  width:100%;
+}
+h1{
+  font-family:"Montserrat";
+  font-weight:bold;
+  font-size:55px;
+  text-align:center;
+  color:#fff;
+  margin:0;
+  padding:0;
+}
+h2{
+  font-family:"Montserrat";
+  font-weight:normal;
+  font-size:18px;
+  text-align: center;
+  color:#fff;
+  margin:0;
+  padding:0;
+}
+p{
+  font-family:"Montserrat";
+  font-weight:normal;
+  font-size:18px;
+  text-align: left;
+  color:#fff;
+}
+h3{
+  font-family:"Montserrat";
+  font-weight:normal;
+  font-size:12px;
+  text-align:right;
+  color:#fff;
+}
+
+.center { margin: 0 auto; }
+.content { margin: 0 auto; width: 960px; }
+.clear { clear: both; }
+
+#slide1, #slide2{ width: 100%; }
+#slide1{
+  background: url('images/windigo/nichols.jpg') 50% 0 no-repeat fixed;
+  color: #fff;
+  height: 600px;
+  margin: 0;
+  padding: 200px 0 260px 0;
+  background-size: cover;
+  opacity: 0.6;
+}
+#slide2{
+  background: url('images/windigo/beltra.jpg') 50% 0 no-repeat fixed;
+  background-color: #6a6c6e;
+  color: #333333;
+  height: 800px;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 200px 0;
+  opacity: 0.6;
+}
+#slide3{
+  background: url('images/corals/garner.jpg') 50% 0 no-repeat fixed;
+  color: #fff;
+  height: 700px;
+  margin: 0;
+  padding: 170px 0 0 0;
+  background-size: cover;
+  opacity: 0.6;
+}
+#slide4{
+  background: url('images/gulf/callahan.jpg') 50% 0 no-repeat fixed;
+  color: #fff;
+  height: 600px;
+  margin: 0;
+  padding: 200px 0;
+  background-size: cover;
+  opacity: 0.6;
+}
+#slide5{
+  background: url('images/conclusion/beck.jpg') 50% 0 no-repeat fixed;
+  color: #fff;
+  height: 900px;
+  margin: 0;
+  padding: 250px 0;
+  color: #fff;
+  background-size: cover;
+  opacity: 0.6;
+}
+#slide6{
+  background-color: #6a6c6e;
+  color: #333333;
+  height: 800px;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 200px 0;
+  opacity: 0.6;
+}
