@@ -42,7 +42,7 @@ h3{
 
 #slide1, #slide2{ width: 100%; }
 #slide1{
-  background: url('images/windigo/nichols.jpg') 50% 0 no-repeat fixed;
+  background: url('images/nichols.jpg') 50% 0 no-repeat fixed;
   color: #fff;
   height: 600px;
   margin: 0;
@@ -51,7 +51,7 @@ h3{
   opacity: 0.6;
 }
 #slide2{
-  background: url('images/windigo/beltra.jpg') 50% 0 no-repeat fixed;
+  background: url('images/beltra.jpg') 50% 0 no-repeat fixed;
   background-color: #6a6c6e;
   color: #333333;
   height: 800px;
@@ -61,7 +61,7 @@ h3{
   opacity: 0.6;
 }
 #slide3{
-  background: url('images/corals/garner.jpg') 50% 0 no-repeat fixed;
+  background: url('images/garner.jpg') 50% 0 no-repeat fixed;
   color: #fff;
   height: 700px;
   margin: 0;
@@ -70,7 +70,7 @@ h3{
   opacity: 0.6;
 }
 #slide4{
-  background: url('images/gulf/callahan.jpg') 50% 0 no-repeat fixed;
+  background: url('images/callahan.jpg') 50% 0 no-repeat fixed;
   color: #fff;
   height: 600px;
   margin: 0;
@@ -79,7 +79,7 @@ h3{
   opacity: 0.6;
 }
 #slide5{
-  background: url('images/conclusion/beck.jpg') 50% 0 no-repeat fixed;
+  background: url('images/beck.jpg') 50% 0 no-repeat fixed;
   color: #fff;
   height: 900px;
   margin: 0;
